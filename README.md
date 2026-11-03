@@ -8,7 +8,8 @@ A comprehensive data analytics project built in **Power BI** to evaluate e-comme
 
 ![Dashboard Screenshot]
 
-<img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/2ce79a72-a937-45fe-af49-3279eb4f1df2" />
+<img width="1272" height="717" alt="image" src="https://github.com/user-attachments/assets/9128834a-bc73-4a4c-ba36-877edaacc3c0" />
+
 
 
 ---
