@@ -37,7 +37,6 @@ Based on the visualized metrics in the dataset (£17.37M Total Sales across 5.87
 ## 📂 Repository Contents
 
 * `Customer_Segmentation_Analysis.pbix` — The complete Power BI Desktop file containing the data model, visual canvases, and DAX measures.
-* `dataset/` — The raw source data used to compile the data model (CSV/Excel format).
 * `README.md` — Project documentation and high-level summary.
 
 ---
