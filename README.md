@@ -6,7 +6,10 @@ A comprehensive data analytics project built in **Power BI** to evaluate e-comme
 
 > *Note: Due to tenant security settings, the live interactive link is restricted. Below is a snapshot of the primary reporting interface.*
 
-![Dashboard Screenshot](image_XXGWph.png)
+![Dashboard Screenshot]
+
+<img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/2ce79a72-a937-45fe-af49-3279eb4f1df2" />
+
 
 ---
 
